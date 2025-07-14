@@ -27,6 +27,7 @@ AppScope/resources/base/element/string.json
 
 
 支持功能：
+
 1、支持深色浅色模式切换
 
 2、支持标题栏高度调节，默认隐藏系统标题栏
