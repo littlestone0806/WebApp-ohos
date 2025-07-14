@@ -1,0 +1,7 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:feishu",
+    "foreground" : "$media:feishu"
+  }
+}

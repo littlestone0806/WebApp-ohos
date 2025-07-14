@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dialog_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dialog_text",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "button_cancel_bg",
+      "value": "#00000000"
+    },
+    {
+      "name": "button_cancel_text",
+      "value": "#797B80"
+    },
+    {
+      "name": "button_download_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_download_text",
+      "value": "#0A58F6"
+    },
+    {
+      "name": "divider",
+      "value": "#E0E0E0"
+    },
+    {
+      "name": "progress_text",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "shadow",
+      "value": "#888888"
+    }
+  ]
+}
